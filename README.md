@@ -15,3 +15,11 @@
 ## Gene annotation
 
 Annotations were produced with BRAKER3 using protein hints from free-living Cnidarians and _K. iwatai_.
+
+
+## Additional information
+### Embedding tools used for assemblies
+- https://github.com/CobiontID/HiC_network
+- https://github.com/CobiontID/read_VAE
+### Identification of _Kudoa_ ribosomal SSU
+- https://github.com/CobiontID/MarkerScan
