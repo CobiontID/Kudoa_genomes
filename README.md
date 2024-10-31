@@ -2,6 +2,8 @@
 
 ## Genomic data
 
+Some of the data are still making their way into public repositories. In the meantime, the assemblies are available [here](./genome_assemblies/).
+
 ### Public release
 
 | Species | ToLID | Biosample | Primary assembly| Alternate haplotype | Mitochondrion | Assembly method |
