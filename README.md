@@ -18,7 +18,7 @@ Some of the data are still making their way into public repositories. In the mea
 
 ## Gene annotation
 
-Annotations were produced with BRAKER3 using protein hints from free-living Cnidarians and _K. iwatai_.
+Annotations were produced with BRAKER3 using protein hints from free-living Cnidarians and _K. iwatai_, and are available [here](./gene_annotations/).
 
 
 ## Additional information
