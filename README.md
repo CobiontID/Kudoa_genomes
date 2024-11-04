@@ -1,5 +1,7 @@
 # _Kudoa_ genomes
 
+This repository contains data associated with: Weber CC et al., [_Kudoa genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution_](https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1).
+
 ## Genomic data
 
 Some of the data are still making their way into public repositories. In the meantime, the assemblies are available [here](./genome_assemblies/).
