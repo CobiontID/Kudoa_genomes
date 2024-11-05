@@ -10,7 +10,7 @@ Some of the data are still making their way into public repositories. In the mea
 
 | Species | ToLID | Biosample | Primary assembly| Alternate haplotype | Mitochondrion | Assembly method |
 | -- | -- | --|--|--|--| -- |
-| _Kudoa neothunni_ | jmKudNeot1 | [SAMEA115884706](https://www.ebi.ac.uk/ena/browser/view/SAMEA115884706) | _in progress_ | _in progress_ | _in progress_ | hifiasm-meta |
+| _Kudoa neothunni_ | jmKudNeot1 | [SAMEA115884706](https://www.ebi.ac.uk/ena/browser/view/SAMEA115884706) | [PRJEB82086](https://www.ebi.ac.uk/ena/browser/view/PRJEB82086) | [PRJEB82087](https://www.ebi.ac.uk/ena/browser/view/PRJEB82087) | _see primary_ | hifiasm-meta |
 | _Kudoa sp. trachurus_ | jmKudSpea1 | [SAMEA116001081](https://www.ebi.ac.uk/ena/browser/view/SAMEA116001081) | [PRJEB80899](https://www.ebi.ac.uk/ena/browser/view/PRJEB80899) | [PRJEB80900](https://www.ebi.ac.uk/ena/browser/view/PRJEB80900) | [PRJEB81409](https://www.ebi.ac.uk/ena/browser/view/PRJEB81409) | [read_VAE*](https://github.com/CobiontID/read_VAE), wtdbg2 |
 
 
